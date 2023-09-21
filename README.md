@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - Persuasive Technology -->
 
-# Casper Bech 👩‍💻🎓
+# Casper Bech 👨‍💻🎓
 
 🚀 **Aspiring Developer**: Immersing myself in C#, Python and HTML/CSS/JS.
 
