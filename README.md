@@ -2,7 +2,7 @@
 
 # Casper Bech 👩‍💻🎓
 
-🚀 **Aspiring Developer**: 🚀 Immersing myself in C#, Python and HTML/CSS/JS.
+🚀 **Aspiring Developer**: Immersing myself in C#, Python and HTML/CSS/JS.
 
 🎓 **Cand. Scient. IT**: Specialized in persuasive design that shapes attitudes and behaviors.
 
