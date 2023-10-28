@@ -15,7 +15,7 @@
 
 🚀 **Aspiring Developer**: Immersing myself in C#, Python and HTML/CSS/JS.
 
-🎓 **Cum Laude Cand. Scient. IT**: Specialized in [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology) that changes attitudes and behaviors<sup>1 2 3</sup>.
+🎓 **Cand. Scient. IT**: Specialized in [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology) that changes attitudes and behaviors<sup>1 2 3</sup>.
 
 📫 Email: [casperbech@pm.me](mailto:casperbech@pm.me)
 
