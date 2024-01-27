@@ -13,9 +13,9 @@
 
 # Casper Bech 👨‍💻🎓
 
-🚀 **Aspiring Developer**: Immersing myself in C#, Python and HTML/CSS/JS.
+🚀 **Aspiring Developer**: Immersing myself in C#, Java and HTML/CSS/JS.
 
-🎓 **Cand. Scient. IT**: Specialized in [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology) that changes attitudes and behaviors<sup>1 2 3</sup>.
+🎓 **Cand. IT**: Specialized in the architecture of usercentered [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology)<sup>1 2 3</sup>.
 
 📫 Email: [casperbech@pm.me](mailto:casperbech@pm.me)
 
