@@ -13,9 +13,9 @@
 
 # Casper Bech 👨‍💻🎓
 
-🚀 **Aspiring Developer**: Immersing myself in C#, Java and HTML/CSS/JS.
+🚀 **Aspiring Developer and student**: Immersing myself in C#, Java and HTML/CSS/JS.
 
-🎓 **Cand. IT**: Specialized in the architecture of usercentered [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology)<sup>1 2 3</sup>.
+🎓 **Cum Laude Cand. IT**: Specialized in the architecture [persuasive design](https://en.wikipedia.org/wiki/Persuasive_technology)<sup>1 2 3</sup>.
 
 📫 Email: [casperbech@pm.me](mailto:casperbech@pm.me)
 
